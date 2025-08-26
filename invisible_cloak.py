@@ -1,6 +1,5 @@
-#!/usr/bin/env python3
 """
-invisible_cloak_full.py
+invisible_cloak.py
 
 Features:
 - CLI: --camera, --color (red|green|blue|auto)
